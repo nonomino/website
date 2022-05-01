@@ -9,6 +9,13 @@ html, body {
   margin: 0 auto -50px;
 }
 
+.imgBanner {
+	margin: 20px 20px 20px 20px;
+	border-radius: 5px;
+	max-width: 100%;
+	height: auto;
+}
+
 .footer,
 .push {
   height: 50px;
